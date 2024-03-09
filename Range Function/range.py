@@ -1,13 +1,12 @@
 
-num = list(range(10))
+number = list(range(10))
 
-print(num)
-print(num[4])
-
-
-num = list(range(5,11))
-print(num)
+print(number)
+print(number[4])
 
 
-num = list(range(2,101,2))
-print(num)
+number = list(range(5,11))
+print(number)
+
+number = list(range(2,101,2))
+print(number)
